@@ -16,8 +16,6 @@
     "@types/react": "18.2.38",
     "@types/react-dom": "18.2.17",
     "autoprefixer": "10.4.16",
-    "eslint": "8.54.0",
-    "eslint-config-next": "14.0.3",
     "next": "14.0.3",
     "next-auth": "^4.24.5",
     "postcss": "8.4.31",
